@@ -1,6 +1,6 @@
 const CONFIG = {
-    titleWeb: "Gửi cho ... <3",
-    introTitle: 'Ngân Khùng!',
+    titleWeb: "Gửi cho Ngân <3",
+    introTitle: 'Ngờ Ân Ngân',
     introDesc: `Trái đất vốn lạ thường
     Mà sao em cứ đi nhầm đường
     Lạc vào tim anh lẻ loi
@@ -16,5 +16,5 @@ const CONFIG = {
     mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
     messDesc: 'Tối nay 7h, mình qua đón đi chơi nha.',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    messLink: 'https://www.youtube.com/watch?v=1K-crba9ZRs' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
